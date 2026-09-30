@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+
+# Test binaries
+*.test
+*.out
+
+# Local configurations & logs
+config.json
+*.log
+
+# OS & Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
